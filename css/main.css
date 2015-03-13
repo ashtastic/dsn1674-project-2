@@ -79,12 +79,15 @@ nav a {
 
 .banner {
 	width: 100%;
-	height: 300px;
+}
+
+.div-banner {
+	position: relative;
 }
 
 h2 {
 	position: absolute;
-	top: 440px;
+	bottom: 1em;
 	text-align: center;
 	font-size: 2em;
 	color: #fff;
