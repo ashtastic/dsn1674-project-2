@@ -20,7 +20,6 @@ body {
 h1 {
 	text-shadow: #222 2px 2px 3px;
 	width: 100%;
-	text-shadow: #222 2px 2px 2px;
 	text-align: center;
 	font-size: 3em;
 	position: absolute;
@@ -42,7 +41,6 @@ small {
 
 nav {
 	background-color: #222222;
-	text-align: center;
 }
 
 nav ol {
@@ -87,7 +85,7 @@ nav a {
 
 h2 {
 	position: absolute;
-	bottom: 1em;
+	bottom: 0.5em;
 	text-align: center;
 	font-size: 2em;
 	color: #fff;
@@ -96,42 +94,69 @@ h2 {
 	width: 100%;
 }
 
+.p1 {
+	padding: 1em;
+	padding-bottom: 1.5em;
+}
+
 .div-dragon {
 	background-color: #e4c22a;
+	text-align: center;
 }
 
 .div-goat {
 	background-color: #222222;
+	text-align: center;
 }
 
 .div-rooster {
 	background-color: #bc0017;
+	text-align: center;
 }
 
 .div-ox {
 	background-color: #e4c22a;
+	text-align: center;
 }
 
 h3 {
 	margin: 0;
-	padding: 0;
+	padding: 1em 0 1em 0;
+	font-size: 1.5em;
+	font-weight: bolder;
 }
 
 .left {
 	float: left;
 	width: 50%;
+	padding-bottom: 1em;
 }
 
 .right {
 	float: right;
 	width: 50%;
+	padding-bottom: 1em;
 }
 
 p {
 	margin: 0;
-	padding: 2em;
+	padding-bottom: 2em;
+	font-style: italic;
+	font-size: 0.8em;
+}
+
+.pw {
+	color: #fff;
 }
 
 aside {
 	background-color: #222222;
+	text-align: center;
+	padding-top: 1.5em;
+}
+
+aside a {
+	text-decoration: underline;
+	color: #fff;
+	font-style: normal;
 }
