@@ -95,3 +95,27 @@ h2 {
 	font-style: italic;
 	width: 100%;
 }
+
+.div-dragon {
+	background-color: #e4c22a;
+}
+
+.div-goat {
+	background-color: #222222;
+}
+
+.div-rooster {
+	background-color: #bc0017;
+}
+
+.div-ox {
+	background-color: #e4c22a;
+}
+
+h3 dragon {
+	margin: 0;
+}
+
+aside {
+	background-color: #222222;
+}
