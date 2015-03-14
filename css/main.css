@@ -112,8 +112,24 @@ h2 {
 	background-color: #e4c22a;
 }
 
-h3 dragon {
+h3 {
 	margin: 0;
+	padding: 0;
+}
+
+.left {
+	float: left;
+	width: 50%;
+}
+
+.right {
+	float: right;
+	width: 50%;
+}
+
+p {
+	margin: 0;
+	padding: 2em;
 }
 
 aside {
